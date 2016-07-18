@@ -1,0 +1,32 @@
+body {
+  padding-top: 80px;
+}
+
+.spacer10 {
+	height: 10px;
+}
+
+.spacer20 {
+	height: 20px;
+}
+
+.spacer40 {
+	height: 40px;
+}
+
+#front-page-menu-bar {
+	background-color: blue;
+}
+
+#front-page-menu-bar .menu-box {
+	padding: 20px;
+	background-color: white;
+	/*width: 90%;*/
+	margin: 40px auto;
+	text-align: center;
+}
+
+#footer {
+	background-color: grey;
+	padding: 40px 0;
+}
